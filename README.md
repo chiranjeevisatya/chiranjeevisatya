@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chiranjeevi satya and I'm a B.Tech student at NIT Raipur, from Andhra Pradesh, India.</h2>
+<h2 align="left">Hey 👋<br>My name is Chiranjeevi satya and I'm a B.Tech student at NIT Raipur, from Andhra Pradesh, India.</h2>
 
 ###
 
@@ -14,7 +14,9 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
+<br clear="both">
+
+<img align="right" height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
 
 ###
 
