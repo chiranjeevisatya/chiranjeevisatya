@@ -14,9 +14,7 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
-</div>
+<img align="right" height="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
 
 ###
 
