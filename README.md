@@ -33,3 +33,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/chiranjeevisatya/chiranjeevisatya/output/snake.svg" alt="Snake animation" />
+
+###
