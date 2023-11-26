@@ -1,4 +1,3 @@
-My name is Chiranjeevi satya and I'm a B.Tech student at NIT Raipur, from Andhra Pradesh, India.
 
 # chiranjeevisatya
 Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=satyaram413.satyaram413)
