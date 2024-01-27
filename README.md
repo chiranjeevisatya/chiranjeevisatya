@@ -8,7 +8,7 @@ I am **Chiranjeevi**, a.k.a **satya** a.k.a **Varaprasad**, a student from Andhr
 **My Current Tech Stack**
 - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" line-height="1.5" />
   <img width="12" />
-- Mysql <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  line-height="1.5" />
+- Mysql <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  line-height="2" />
   <img width="12" />
 - NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" line-height="1.5"   />
   <img width="12" />
