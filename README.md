@@ -10,6 +10,6 @@ I am **Chiranjeevi**, a.k.a **satya** a.k.a **Varaprasad**, a student from Andhr
   <img width="12" />
 - Mysql <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" style="line-height: 1.5;" />
   <img width="12" />
-- NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+- NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  style="line-height: 1.5;"/>
   <img width="12" />
 - Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
